@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 2d6fcfd243d9f2a4484ed58ae23177ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4170597269454202324
+    second: Water-Pack-Tileset-Photoroom_0
+  - first:
+      213: 2918837875022109059
+    second: Water-Pack-Tileset-Photoroom_1
+  - first:
+      213: -9014823104233784889
+    second: Water-Pack-Tileset-Photoroom_2
+  - first:
+      213: 8973221594974064574
+    second: Water-Pack-Tileset-Photoroom_3
+  - first:
+      213: 7976546788900669900
+    second: Water-Pack-Tileset-Photoroom_4
+  - first:
+      213: -6256421391815665708
+    second: Water-Pack-Tileset-Photoroom_5
+  - first:
+      213: -1068643809293455090
+    second: Water-Pack-Tileset-Photoroom_6
+  - first:
+      213: -1643845375211346733
+    second: Water-Pack-Tileset-Photoroom_7
+  - first:
+      213: 3974886982618826717
+    second: Water-Pack-Tileset-Photoroom_8
+  - first:
+      213: 2323725564793899321
+    second: Water-Pack-Tileset-Photoroom_9
+  - first:
+      213: -8585776652821701315
+    second: Water-Pack-Tileset-Photoroom_10
+  - first:
+      213: 255420798183502192
+    second: Water-Pack-Tileset-Photoroom_11
+  - first:
+      213: -5618345111548712062
+    second: Water-Pack-Tileset-Photoroom_12
+  - first:
+      213: 4948267026569227601
+    second: Water-Pack-Tileset-Photoroom_13
+  - first:
+      213: -1307455851879453985
+    second: Water-Pack-Tileset-Photoroom_14
+  - first:
+      213: 5619512607059311743
+    second: Water-Pack-Tileset-Photoroom_15
+  - first:
+      213: 8136718842601810136
+    second: Water-Pack-Tileset-Photoroom_16
+  - first:
+      213: 1218841628946271045
+    second: Water-Pack-Tileset-Photoroom_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 344
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5280bae10f0e930800000000000000
+      internalID: 4170597269454202324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 344
+        width: 152
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38916a9259bc18820800000000000000
+      internalID: 2918837875022109059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 343
+        width: 153
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c93927362ae4e280800000000000000
+      internalID: -9014823104233784889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 344
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf0b4b9f79478c70800000000000000
+      internalID: 8973221594974064574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 344
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc905befa0362be60800000000000000
+      internalID: 7976546788900669900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 344
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d71caf54e9bc29a0800000000000000
+      internalID: -6256421391815665708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 178
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01b4ab0e1a6b21f0800000000000000
+      internalID: -1068643809293455090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 178
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4ebd83753ef29e0800000000000000
+      internalID: -1643845375211346733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 178
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7c15d96a2a92730800000000000000
+      internalID: 3974886982618826717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 178
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939c80de6188f3020800000000000000
+      internalID: 2323725564793899321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 178
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d58b7af9139d880800000000000000
+      internalID: -8585776652821701315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 178
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07179f7dcdf6b8300800000000000000
+      internalID: 255420798183502192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 153
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b269863e0a702b0800000000000000
+      internalID: -5618345111548712062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 12
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15def64c4a6cba440800000000000000
+      internalID: 4948267026569227601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 12
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda283574dbfadde0800000000000000
+      internalID: -1307455851879453985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 12
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c799251f48cfd40800000000000000
+      internalID: 5619512607059311743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 12
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8228a5dae6be070800000000000000
+      internalID: 8136718842601810136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Pack-Tileset-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 12
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b0dcaf0023ae010800000000000000
+      internalID: 1218841628946271045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water-Pack-Tileset-Photoroom_0: 4170597269454202324
+      Water-Pack-Tileset-Photoroom_1: 2918837875022109059
+      Water-Pack-Tileset-Photoroom_10: -8585776652821701315
+      Water-Pack-Tileset-Photoroom_11: 255420798183502192
+      Water-Pack-Tileset-Photoroom_12: -5618345111548712062
+      Water-Pack-Tileset-Photoroom_13: 4948267026569227601
+      Water-Pack-Tileset-Photoroom_14: -1307455851879453985
+      Water-Pack-Tileset-Photoroom_15: 5619512607059311743
+      Water-Pack-Tileset-Photoroom_16: 8136718842601810136
+      Water-Pack-Tileset-Photoroom_17: 1218841628946271045
+      Water-Pack-Tileset-Photoroom_2: -9014823104233784889
+      Water-Pack-Tileset-Photoroom_3: 8973221594974064574
+      Water-Pack-Tileset-Photoroom_4: 7976546788900669900
+      Water-Pack-Tileset-Photoroom_5: -6256421391815665708
+      Water-Pack-Tileset-Photoroom_6: -1068643809293455090
+      Water-Pack-Tileset-Photoroom_7: -1643845375211346733
+      Water-Pack-Tileset-Photoroom_8: 3974886982618826717
+      Water-Pack-Tileset-Photoroom_9: 2323725564793899321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
