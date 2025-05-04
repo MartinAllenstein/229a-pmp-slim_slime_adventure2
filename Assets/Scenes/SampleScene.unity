@@ -6980,6 +6980,7 @@ GameObject:
   - component: {fileID: 1292307375}
   - component: {fileID: 1292307374}
   - component: {fileID: 1292307373}
+  - component: {fileID: 1292307376}
   m_Layer: 0
   m_Name: Slime
   m_TagString: Untagged
@@ -7125,7 +7126,7 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -7158,6 +7159,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &1292307376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1292307369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af1b620e13a7bee4b93bcba76ae86bbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shootPoint: {fileID: 1621632777}
+  target: {fileID: 1330643422}
+  bulletPrefab: {fileID: 4876717550070454363, guid: e11f938f960facc49a80b53df759faed, type: 3}
+  shootCooldown: 0.7
 --- !u!1 &1314637971
 GameObject:
   m_ObjectHideFlags: 0
@@ -7393,7 +7410,7 @@ SpriteRenderer:
   m_SortingLayerID: 979863733
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4385501425044414559, guid: b80700fb615d55b47b4c30b7ba5a552d, type: 3}
+  m_Sprite: {fileID: 2584664835327251057, guid: 52580ff52b9a5aa48bf337ef32f34e5b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -7414,7 +7431,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.66, y: -0.56364197, z: 0}
-  m_LocalScale: {x: 15, y: 15, z: 15}
+  m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
