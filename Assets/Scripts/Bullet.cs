@@ -8,6 +8,13 @@ public class Bullet : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        if (other.gameObject.CompareTag("Rock"))
+        {
+            Destroy(other.gameObject);
+            Destroy(gameObject);
+        }
+        
         Destroy(gameObject, 3f);
     }
 }
