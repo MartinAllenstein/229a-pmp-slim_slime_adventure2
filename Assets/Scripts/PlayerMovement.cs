@@ -33,6 +33,10 @@ public class PlayerMovement : MonoBehaviour
     public Button replayButton;
     public Button replayButton2;
 
+    public AudioClip jumpSound;
+    public AudioClip hitSound;
+    public AudioSource audioSource;
+
     private void Awake()
     {
         playButton.onClick.AddListener(StartGame);
@@ -66,7 +70,7 @@ public class PlayerMovement : MonoBehaviour
         {
             rb2d.linearVelocity = new Vector2(rb2d.linearVelocity.x, jumpForce);
             //Debug.Log("Jump!");
-            
+            audioSource.PlayOneShot(jumpSound);
             animator.SetBool("IsJumping", true);
         }
         
@@ -126,6 +130,7 @@ public class PlayerMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("Gold"))
         {
             goldCoin++;
+            audioSource.PlayOneShot(hitSound);
             Destroy(collision.gameObject);
         }
     }

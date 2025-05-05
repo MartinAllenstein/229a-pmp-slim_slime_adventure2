@@ -11,6 +11,9 @@ public class Shooting : MonoBehaviour
     
     Animator animator;
 
+    public AudioClip jumpSound;
+    public AudioSource audioSource;
+
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -43,8 +46,10 @@ public class Shooting : MonoBehaviour
                 
                 //add velocity
                 shootBullet.linearVelocity = projectileVelocity;
-                
+
+                audioSource.PlayOneShot(jumpSound);
                 animator.SetBool("IsAttack" , true);
+                
             }
         }
     }
