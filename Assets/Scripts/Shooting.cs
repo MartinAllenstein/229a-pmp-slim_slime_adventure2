@@ -34,7 +34,7 @@ public class Shooting : MonoBehaviour
             if (hit.collider != null)
             {
                 target.transform.position = new Vector2(hit.point.x, hit.point.y);
-                Debug.Log("Hit " + hit.collider.name);
+                //Debug.Log("Hit " + hit.collider.name);
 
                 Vector2 projectileVelocity = CalculateProjectileVelocity(shootPoint.position, hit.point, 1f);
                 

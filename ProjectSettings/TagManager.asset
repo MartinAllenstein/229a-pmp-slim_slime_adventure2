@@ -8,6 +8,8 @@ TagManager:
   - Gold
   - Spike
   - Rock
+  - GameOver
+  - GameWin
   layers:
   - Default
   - TransparentFX
