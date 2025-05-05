@@ -5,7 +5,7 @@ public class GameManagerSystem : MonoBehaviour
 {
     public void LoadGameScene()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("Level1Scene");
     }
 
     public void LoadCreditScene()
